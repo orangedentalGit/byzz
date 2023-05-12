@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.6x)
 
-- [Neueste Änderungen](..\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.69
 - Alle Hauptansichten außer Kleinröntgen erlauben jetzt das Verschieben von Vorschaubildern über den unteren Rand hinaus.
@@ -89,15 +89,15 @@
   - Ein händisch eingegebenes Geburtsdatum kann jetzt nicht mehr weiter in der Vergangenheit als 01.01.1900 oder in der Zukunft liegen.
 - Die Bildparameter können nur noch in bestimmten Ansichten angezeigt werden.
 - Control Center:
-  - Die Speicherung der Beschreibung der Kacheln wurde überarbeitet. Änderun-gen in der Logik benötigen jetzt kein Zurücksetzen der Oberfläche mehr.
-  - In den Einstellungen wurde ebenfalls der Punkt Control Center eingeführt. Hier werden alle möglichen Kacheln aufgelistet sowie die Möglichkeit bereitgestellt, Prozess-Kacheln zu erzeugen, die einen bestimmten Prozess überwachen und dessen Hauptfenster anzeigen. Hierzu kann einfach per Drag and Drop eine .exe Datei auf die Oberfläche gezogen und fallen gelassen werden (das zugehö-rige Programm muss dazu jedoch bereits laufen!). Zum jetzigen Zeitpunkt wird nur die Neuerzeugung angeboten. Eine Änderung ist nicht möglich, man kann jedoch erzeugte Prozess Kacheln löschen und neu anlegen. Weitere Optionen werden im Laufe der Zeit hinzugefügt.
+  - Die Speicherung der Beschreibung der Kacheln wurde überarbeitet. Änderungen in der Logik benötigen jetzt kein Zurücksetzen der Oberfläche mehr.
+  - In den Einstellungen wurde ebenfalls der Punkt Control Center eingeführt. Hier werden alle möglichen Kacheln aufgelistet sowie die Möglichkeit bereitgestellt, Prozess-Kacheln zu erzeugen, die einen bestimmten Prozess überwachen und dessen Hauptfenster anzeigen. Hierzu kann einfach per Drag and Drop eine .exe Datei auf die Oberfläche gezogen und fallen gelassen werden (das zugehörige Programm muss dazu jedoch bereits laufen!). Zum jetzigen Zeitpunkt wird nur die Neuerzeugung angeboten. Eine Änderung ist nicht möglich, man kann jedoch erzeugte Prozess Kacheln löschen und neu anlegen. Weitere Optionen werden im Laufe der Zeit hinzugefügt.
   - Die Dokumente-Kachel zeigt jetzt Elemente an. Handelt es sich um darstellbare Bilder, werden diese angezeigt. Nicht darstellbare Dokumente werden mit ei-nem Platzhaltersymbol angezeigt.
 - Zahnschema:
   - Die Anzeige des Schemas für Kleinröntgenbilder wurde um Bissflügelbuttons erweitert.
   - Für Videobilder werden außerdem zusätzliche Auswahlbuttons für Quadranten, Kiefer sowie für En face und Smile angeboten.
   - Nachträgliche Zahnänderungen für Kleinröntgen und Kamera erfordern jetzt die Angabe eines Hauptzahnes (= Ortsbezeichnung). Dieser wird beim Setzen der Bissflügel-, Quadranten-, Kiefer-, Smile- und En face – Buttons automatisch gesetzt. Explizite Zahnzuweisungen erlauben beliebig viele Zähne und benötigen zusätzlich den Hauptzahn. Dieser wird hierbei mit Klick über die rechte Maustaste gesetzt.
 - Um den Speicher etwas weniger zu belasten, werden die Vorschaubilder mit steigender Anzahl im Importdialog stufenweise in der Auflösung verringert.
-- Die Serienübersicht erstellt jetzt beim ersten Aktivieren Vorschaubilder aller vorhande-nen Serienansichten. Jedes weitere Aktivieren sollte danach deutlich schneller reagieren.
+- Die Serienübersicht erstellt jetzt beim ersten Aktivieren Vorschaubilder aller vorhandenen Serienansichten. Jedes weitere Aktivieren sollte danach deutlich schneller reagieren.
 - Die Darstellungsoptionen für die Hintergründe der jeweiligen Ansichten wurden überarbeitet und funktionieren jetzt korrekt.
 - Auf zweitem Bildschirm anzeigen („Duplikatfenster“):
   - Diese Funktionalität wurde überarbeitet und kann jetzt jedes geöffnete Bild abhängig von der Auswahl anzeigen. Außerdem kann der Katalog ebenfalls als Quellfenster verwendet werden.
@@ -108,7 +108,7 @@
   - Fenster schließen.
   - Geöffnete Bilder können jetzt in der Werkzeugleiste mit einem weiteren Button „Auf zweitem Bildschirm anzeigen“ versehen werden (standardmäßig nicht gesetzt – muss erst über die Toolbareinstellung hinzugefügt werden). Mit Klick auf den Button wird das Duplikatfenster gestartet (sofern es nicht schon sichtbar ist) und das Bild angezeigt.
 - Aufnahmeparameter werden jetzt pro Gerätetyp und Zahn gespeichert.
-- Der Aufnahmebestätigungsdialog wurde überarbeitet und zeigt jetzt nicht nur die Bild-parameter, sondern eine Liste aller gemachten Aufnahmen. Jede Aufnahme muss dabei zumindest einmal angeklickt worden sein, um die Aufnahme zu bestätigen. Ansonsten kann das Fenster nur mit X geschlossen werden (entspricht keiner Änderung).
+- Der Aufnahmebestätigungsdialog wurde überarbeitet und zeigt jetzt nicht nur die Bildparameter, sondern eine Liste aller gemachten Aufnahmen. Jede Aufnahme muss dabei zumindest einmal angeklickt worden sein, um die Aufnahme zu bestätigen. Ansonsten kann das Fenster nur mit X geschlossen werden (entspricht keiner Änderung).
 - Bildvergleich:
   - Der Bildvergleich wird jetzt in einem extra Fenster angezeigt (bietet ansonsten jedoch noch keine weiteren Neuerungen – dies erfolgt zu einem späteren Zeitpunkt).
   - Es wurde zusätzlich eine weitere Variante des Vergleichs hinzugefügt. Im Vergleichsfenster können mehrere Bilder ausgewählt werden. Werden hierbei genau zwei Bilder ausgewählt, wird im Fenstermenü (erscheint, wenn sich die Maus im oberen Bereich des Fensters befindet) der Überlagerungsbutton aktiv. Mit Klick auf diesen wird der Überlagerungsmodus aktiviert, in welchem die Transparenz des oberen Bildes über einen Regler am rechten Bildschirmrand stufenlos angepasst werden kann. Zusätzlich kann auf der linken Seite jeweils ein Bild als aktiv ausgewählt werden. Das aktive Bild kann im Überlagerungsbereich des Fensters mit gedrückter linker Maustaste verschoben und mit dem Mausrad gezoomt werden. Ein Doppelklick mit linker Maustaste setzt die Verschiebung zurück. Ein Doppelklick mit rechter Maustaste setzt den Zoom zu-rück.
@@ -119,7 +119,7 @@ Mit einem Klick auf den Vergleichsbutton im Fenstermenü kann wieder zum Bildver
 - Die Patientenmaske wird jetzt korrekt aktualisiert, wenn kein Patient geöffnet war und ein anderer Benutzer angemeldet wird.
 - Escape schließt ein Bildfenster nicht mehr, wenn dieses nicht im Vollbildmodus ist. Stattdessen wurde diese Funktion so angepasst, dass Fenster im Vollbild bzw. maximiert nun zurück in den Fenstermodus wechseln.
 - Dokumentenansicht:
-  - Dokumente können jetzt ebenfalls zu anderen Patienten kopiert und verscho-ben werden.
+  - Dokumente können jetzt ebenfalls zu anderen Patienten kopiert und verschoben werden.
   - Analog wie im Control Center werden auch hier in der Kachelansicht entsprechend dem Dateityp Vorschaubilder angezeigt.
   - Die Kachelansicht erlaubt jetzt ebenfalls die Größeneinstellung über den Slider in der Statusbar am unteren Bildschirmrand.
 - byzz Maintenance, byzz Migrator und byzz Constancy zeigen jetzt einen Button, von dem aus der TeamViewer direkt gestartet werden kann.

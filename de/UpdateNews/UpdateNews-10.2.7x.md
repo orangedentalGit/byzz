@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.7x)
 
-- [Neueste Änderungen](..\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.78
 - Eine neue Variante zum Anpassen der Programmoptik wurde implementiert. Hieraus ergibt sich ein einheitliches neues Design. Die Möglichkeit zur Anpassung durch den Benutzer wird zu einem späteren Zeitpunkt zur Verfügung gestellt.
@@ -100,4 +100,4 @@
 - Ein Fehler bei der Anzeige und Bearbeitung der Notizen wurde behoben.
 
 ## Ältere Versionen
-- [Versionen 10.2.6x](UpdateNews-10.2.6x.md)
+- [10.2.6x](UpdateNews-10.2.6x.md)

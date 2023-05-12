@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.13x)
 
-- [Neueste Änderungen](--\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.139
 - Die DVT-Abnahmeprüfung wurde in byzz Constancy hinzugefügt.
@@ -93,4 +93,4 @@ Lizenzierungen basieren nicht länger auf konkreten Geräten, sondern auf den er
 - Weitere kleinere Fehler wurden behoben.
 
 ## Ältere Versionen
-- [Versionen 10.2.100 bis 10.2.12x](UpdateNews-10.2.12x.md)
+- [10.2.100 bis 10.2.12x](UpdateNews-10.2.12x.md)

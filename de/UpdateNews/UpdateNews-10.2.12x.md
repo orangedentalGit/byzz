@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.100 bis 10.2.12x)
 
-- [Neueste Änderungen](..\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.121
 - Ein gelegentlich auftretender Fehler beim Laden der Einstellungen wurde behoben.
@@ -12,7 +12,7 @@
 
 ## 10.2.119
 - Geräteeinstellungen: Kameraschalter können jetzt Tastatur-Tasten emulieren.
-- Es wurde ein Programm (byzz.Clinic.Migrator) zum Migrieren von SQL Server Daten hin-zugefügt.
+- Es wurde ein Programm (byzz.Clinic.Migrator) zum Migrieren von SQL Server Daten hinzugefügt.
 - Migrator: Die Migration kann jetzt auch über DICOMDIR ausgeführt werden.
 - Ein Fehler in der patientenübergreifenden Suche wurde behoben.
 - Ein Fehler wurde behoben, durch den in der Historie manche Bilder nicht ermittelt werden konnten.
@@ -76,7 +76,7 @@
 
 # 10.2.111
 - Integration von Klinikfunktionalitäten:
-  - Praxisverwaltung: Im Zuge der Anpassungen zur Verwendung des Softwaresys-tems in Kliniken wurde die Verwaltung entsprechend erweitert. Die ursprüngli-che Hierarchie Praxis → Benutzer wurde durch die Hierarchie Praxis → Abtei-lung → Benutzergruppe → Benutzer ersetzt. Weitere Informationen hierzu entnehmen Sie bitte dem Handbuch.
+  - Praxisverwaltung: Im Zuge der Anpassungen zur Verwendung des Softwaresys-tems in Kliniken wurde die Verwaltung entsprechend erweitert. Die ursprüngliche Hierarchie Praxis → Benutzer wurde durch die Hierarchie Praxis → Abtei-lung → Benutzergruppe → Benutzer ersetzt. Weitere Informationen hierzu entnehmen Sie bitte dem Handbuch.
   - Unterstützung von PACS/RIS: Über den Server Konfigurator können jetzt entsprechende Einstellungen vorgenommen werden.
   - Bei Verwendung von RIS werden die Aufnahmeaufträge durch RIS Aufträge ersetzt.
 - Externe Bildverwaltung: Im Zuge der Implementierung der Klinikfunktionalitäten können jetzt über Fremdsoftware aufgenommene Bilder gesondert behandelt und dargestellt werden. Weitere Informationen hierzu entnehmen Sie bitte dem Handbuch.
@@ -139,4 +139,4 @@ Die Taste F11 wird jetzt ähnlich den meisten Browsern für den Wechsel zwischen
 - Die Bildübergabe von Röntgen-Aufnahmen zwischen Röntgen-Scanner und byzz nxt wurde überarbeitet.
 
 ## Ältere Versionen
-- [Versionen 10.2.9x](UpdateNews-10.2.9x.md)
+- [10.2.9x](UpdateNews-10.2.9x.md)

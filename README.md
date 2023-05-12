@@ -2,3 +2,5 @@
 
 ## Documentation Languages
 - [German](de)
+- [English](en)
+- [French](fr)

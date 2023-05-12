@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.8x)
 
-- [Neueste Änderungen](..\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.89
 - Die Testbilderdarstellung innerhalb des Hauptfensters funktioniert wieder.
@@ -130,4 +130,4 @@ In allen Fällen wird zusätzlich ein Hinweis angezeigt.
 - Weitere kleine Fehler wurden behoben.
 
 ## Ältere Versionen
-- [Versionen 10.2.7x](UpdateNews-10.2.7x.md)
+- [10.2.7x](UpdateNews-10.2.7x.md)

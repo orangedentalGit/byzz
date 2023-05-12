@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.9x)
 
-- [Neueste Änderungen](..\README.md)
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.99
 - Ein Fehler wurde behoben, durch den beim Drucken die zuschaltbaren Textinformationen wie beim Export in die Bilder gezeichnet wurden.
@@ -32,7 +32,7 @@
   - Ein Fehler wurde behoben, durch den ein Bild nicht angezeigt wurde.
   - Ein Fehler wurde behoben, durch den eine falsche Patientennummer angezeigt wurde.
 - Ein Fehler wurde behoben, durch den die Konstanzprüfung Erinnerungseinstellung um einen Tag versetzt war.
-- Waren noch keine Elemente im Katalog vorhanden, wurden falsche Wurzelknoten an-gezeigt – dies wurde behoben.
+- Waren noch keine Elemente im Katalog vorhanden, wurden falsche Wurzelknoten angezeigt – dies wurde behoben.
 - Weitere kleinere Fehler wurden behoben.
 
 ## 10.2.94
@@ -45,7 +45,7 @@
   - Der Druckdialog zum Drucken der Konstanzliste wurde überarbeitet.
   - Ein Abbruch des Login Vorgangs führt jetzt nicht mehr zum Absturz.
 - TransCrypt Benachrichtigungen funktionieren wieder wie vorgesehen.
-- Die Implantatliste der Bildansicht wird jetzt nach erfolgter Bearbeitung korrekt aktuali-siert.
+- Die Implantatliste der Bildansicht wird jetzt nach erfolgter Bearbeitung korrekt aktualisiert.
 - Die Lupenfunktion der Hauptansicht funktioniert jetzt auch mit ungewöhnlichen Monitorkonstellationen und Bildschirmskalierungen.
 - Drucken:
   - Für die Textoptionen kann jetzt ein Schriftgrad (klein, mittel, groß) gewählt werden.
@@ -71,7 +71,7 @@
 - Die Patientenliste wird jetzt natürlicher sortiert, so dass insbesondere die Sortierung nach Nummer ein besseres Ergebnis liefert.
 - In der Patientenmaske wurde ein Fehler behoben, der in manchen Fällend verhinderte, dass die korrekte Praxis bzw. der korrekte Behandler gesetzt wird.
 - Aktualisierung des Setups
-  - Installation und Update: Falls vorhanden werden jetzt alle Datenbankverbindungen beachtet und alle zugreifbaren Datenbanken aktualisiert. Hierbei findet eine Validierung statt, die online überprüft, ob ein Wartungsvertrag vorliegt oder nicht. Falls dies nicht der Fall ist oder keine Internetverbindung möglich ist, muss für jede zu aktualisierende Datenbank (außer Demo Datenbanken) ein Aktualisierungscode eingegeben werden. Für die zur jeweiligen Datenbank zugehörige Postgres Administrationsdaten-bank kann jetzt bei Bedarf das Passwort angegeben werden.
+  - Installation und Update: Falls vorhanden werden jetzt alle Datenbankverbindungen beachtet und alle zugreifbaren Datenbanken aktualisiert. Hierbei findet eine Validierung statt, die online überprüft, ob ein Wartungsvertrag vorliegt oder nicht. Falls dies nicht der Fall ist oder keine Internetverbindung möglich ist, muss für jede zu aktualisierende Datenbank (außer Demo Datenbanken) ein Aktualisierungscode eingegeben werden. Für die zur jeweiligen Datenbank zugehörige Postgres Administrationsdatenbank kann jetzt bei Bedarf das Passwort angegeben werden.
   - Deinstallation: Anmeldeinformationen für den Server Dienst werden jetzt korrekt aus dem System entfernt.
 - byzz Constancy
   - Ein Fehler wurde behoben durch den Abweichungen zwischen Aufnahme und Zulassungsaufnahme trotzdem als gültig angenommen wurden.
@@ -93,7 +93,7 @@
 Serverseitige administrative Aufgaben wie Server Adresse und Port, Freigabe im Netzwerk, Datenbankverwaltung sowie die Festlegung des Sicherungsverzeichnisses werden hier durchgeführt. Zum Starten des Programms werden gehobe-ne Rechte benötigt.
   - byzz Maintenance
   - Durch die Bereitstellung des Konfigurationstools entfällt die Angabe des Sicherungsverzeichnisses.
-  - Für die Wiederherstellung werden jetzt alle gefundenen bisherigen Si-cherungen in einer Liste angeboten.
+  - Für die Wiederherstellung werden jetzt alle gefundenen bisherigen Sicherungen in einer Liste angeboten.
 - Im Zuge der Architekturumstellung wurden viele Oberflächenaktualisierungen und -anpassungen vorgenommen. Auf manchen Dialogen (z.B. Export) befinden sich daher Schaltflächen möglicherweise an einer anderen Position.
 - Fensterpositionen und -größen beachten jetzt auch Monitorkonfigurationen mit unkonventionellen Auflösungen und Skalierungen.
 - Es können jetzt Aufnahmeaufträge angelegt und an andere Arbeitsstationen gesendet werden. Genauere Informationen hierzu finden Sie im Handbuch.
@@ -115,4 +115,4 @@ Serverseitige administrative Aufgaben wie Server Adresse und Port, Freigabe im N
 - Das Importverhalten für dentaleyepad wurde angepasst, so dass auch Bilder importiert werden, die zwar einer Ansicht, nicht jedoch einem Template zugeordnet werden können.
 
 ## Ältere Versionen
-- [Versionen 10.2.8x](UpdateNews-10.2.8x.md)
+- [10.2.8x](UpdateNews-10.2.8x.md)
