@@ -1,4 +1,6 @@
-# Update Hinweise zu byzz nxt
+# Update Hinweise zu byzz nxt (für Versionen 10.2.13x)
+
+- [Neueste Änderungen](../README.md)
 
 ## 10.2.139
 - Die DVT-Abnahmeprüfung wurde in byzz Constancy hinzugefügt.
@@ -89,3 +91,6 @@ Lizenzierungen basieren nicht länger auf konkreten Geräten, sondern auf den er
 - Es wurde ein Fehler behoben, durch den Screenshots in die DVT-Ansicht importiert werden konnten.
 - Es wurde ein Fehler behoben, durch den die Navigation mit Pfeiltasten in der Patientenansicht nicht wie vorgesehen funktionierte.
 - Weitere kleinere Fehler wurden behoben.
+
+## Ältere Versionen
+- [Versionen 10.2.11x](de/UpdateNews-10.2.11x.md)
