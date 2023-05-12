@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.6x)
 
-- [Neueste Änderungen](../README.md)
+- [Neueste Änderungen](..\README.md)
 
 ## 10.2.69
 - Alle Hauptansichten außer Kleinröntgen erlauben jetzt das Verschieben von Vorschaubildern über den unteren Rand hinaus.

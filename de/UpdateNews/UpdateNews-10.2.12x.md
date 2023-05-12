@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.100 bis 10.2.12x)
 
-- [Neueste Änderungen](README.md)
+- [Neueste Änderungen](..\README.md)
 
 ## 10.2.121
 - Ein gelegentlich auftretender Fehler beim Laden der Einstellungen wurde behoben.

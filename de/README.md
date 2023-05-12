@@ -22,9 +22,9 @@ Mit dieser Zusammenstellung erhalten Sie eine Übersicht über Neuerungen und du
 - Weitere kleinere Fehler wurden behoben.
 
 ## Ältere Versionen
-- [Versionen 10.2.13x](UpdateNews-10.2.13x.md)
-- [Versionen 10.2.100-10.2.12x](UpdateNews-10.2.12x.md)
-- [Versionen 10.2.9x](UpdateNews-10.2.9x.md)
-- [Versionen 10.2.8x](UpdateNews-10.2.8x.md)
-- [Versionen 10.2.7x](UpdateNews-10.2.7x.md)
-- [Versionen 10.2.6x](UpdateNews-10.2.6x.md)
+- [Versionen 10.2.13x](UpdateNews\UpdateNews-10.2.13x.md)
+- [Versionen 10.2.100-10.2.12x](UpdateNews\UpdateNews-10.2.12x.md)
+- [Versionen 10.2.9x](UpdateNews\UpdateNews-10.2.9x.md)
+- [Versionen 10.2.8x](UpdateNews\UpdateNews-10.2.8x.md)
+- [Versionen 10.2.7x](UpdateNews\UpdateNews-10.2.7x.md)
+- [Versionen 10.2.6x](UpdateNews\UpdateNews-10.2.6x.md)
