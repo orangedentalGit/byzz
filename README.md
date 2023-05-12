@@ -2,10 +2,9 @@
 
 Mit dieser Zusammenstellung erhalten Sie eine Übersicht über Neuerungen und durchgeführte Fehlerbehebungen (Bug-Fixes):
 
-|**Besondere Hinweise für Aktualisierungen**|
+|**Besondere Hinweise für Aktualisierungen von 10.2.89 oder älter**|
 |---|
-|**Von 10.2.89 oder älter**
-Beachten Sie bitte, dass Wartungsaufgaben von byzz Maintenance nach einem Update nicht länger funktionieren! Sie müssen diese daher über den Konfigurator und byzz Maintenance neu anlegen.|
+|Beachten Sie bitte, dass Wartungsaufgaben von byzz Maintenance nach einem Update nicht länger funktionieren! Sie müssen diese daher über den Konfigurator und byzz Maintenance neu anlegen.|
 
 ## 10.2.142
 - Im Rahmen normativer Änderungen zum 01.01.2023 wurden Änderungen an der Speicherung und Verarbeitung des Dosenflächenproduktes vorgenommen.
