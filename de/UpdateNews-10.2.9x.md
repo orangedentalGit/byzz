@@ -1,6 +1,6 @@
 # Update Hinweise zu byzz nxt (für Versionen 10.2.9x)
 
-- [Neueste Änderungen](../README.md)
+- [Neueste Änderungen](README.md)
 
 ## 10.2.99
 - Ein Fehler wurde behoben, durch den beim Drucken die zuschaltbaren Textinformationen wie beim Export in die Bilder gezeichnet wurden.
