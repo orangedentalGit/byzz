@@ -24,4 +24,8 @@ Beachten Sie bitte, dass Wartungsaufgaben von byzz Maintenance nach einem Update
 
 ## Ältere Versionen
 - [Versionen 10.2.13x](de/UpdateNews-10.2.13x.md)
-- [Versionen 10.2.12x](de/UpdateNews-10.2.12x.md)
+- [Versionen 10.2.100-10.2.12x](de/UpdateNews-10.2.12x.md)
+- [Versionen 10.2.9x](de/UpdateNews-10.2.9x.md)
+- [Versionen 10.2.8x](de/UpdateNews-10.2.8x.md)
+- [Versionen 10.2.7x](de/UpdateNews-10.2.7x.md)
+- [Versionen 10.2.6x](de/UpdateNews-10.2.6x.md)

@@ -93,4 +93,4 @@ Lizenzierungen basieren nicht länger auf konkreten Geräten, sondern auf den er
 - Weitere kleinere Fehler wurden behoben.
 
 ## Ältere Versionen
-- [Versionen 10.2.11x](de/UpdateNews-10.2.11x.md)
+- [Versionen 10.2.100 bis 10.2.12x](UpdateNews-10.2.12x.md)
