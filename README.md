@@ -1,6 +1,6 @@
 # Welcome to byzz nxt
 
-## Update news:
-- [German](https://github.com/orangedentalGit/byzz-docs/wiki/UpdateNews-de)
-- [English](https://github.com/orangedentalGit/byzz-docs/wiki/UpdateNews-en)
-- [French](https://github.com/orangedentalGit/byzz-docs/wiki/UpdateNews-fr) (todo)
+## byzz nxt Wiki:
+- [German](https://github.com/orangedentalGit/byzz-docs/wiki/byzz-Wiki-de)
+- [English](https://github.com/orangedentalGit/byzz-docs/wiki/byzz-Wiki-en)
+- [French](https://github.com/orangedentalGit/byzz-docs/wiki/byzz-Wiki-fr) (todo)
